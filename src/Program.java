@@ -6,7 +6,7 @@ import java.net.URL;
 import java.io.InputStreamReader;
 import java.io.IOException;
 
-public class Program {
+public class Program { // если вы не  можете понять почему у меня главный класс называется Program то это у меня от C# xD
 
     public static Object RunMainCode;
     public static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
